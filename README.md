@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm Alex, the creator of [Freeter](https://medium.com/hackernoon/how-i-hacked-my-workflow-45e328ad8d9b). Since selling it almost 5 years ago, I've received lots of messages from users asking if there is any way to do something as the new owner never released any updates. For me, not only as the creator of Freeter, but also as the user, it was an important application too and it's sad to see what has become of it. Over time, Freeter has become obsolete, showing more and more "update your browser" notifications and causing more and more issues in various web apps accessed through it. And since there are no alternatives to Freeter, I thought about building a better version of it from scratch, with open source code, if there's enough support.
+I'm Alex, the creator of [Freeter](https://freeter.io/). Since selling it almost 5 years ago, I've received lots of messages from users asking if there is any way to do something as the new owner never released any updates. For me, not only as the creator of Freeter, but also as the user, it was an important application too and it's sad to see what has become of it. Over time, Freeter has become obsolete, showing more and more "update your browser" notifications and causing more and more issues in various web apps accessed through it. And since there are no alternatives to Freeter, I thought about building a better version of it from scratch, with open source code, if there's enough support.
 
 On **January 19, 2022** at 4 PM GMT a Patreon campaign will be launched to fund the development of the project. Patrons who join within the first 10 days (by **January 29, 2022**) will get a **very special reward** — **lifetime** credit as a **Founding Sponsor/Backer** on the project website, in the application, in the community and the repository.
 
@@ -14,6 +14,7 @@ In the second half of 2015, as a freelance developer working on multiple project
 - ["How I hacked my workflow"](https://medium.com/hackernoon/how-i-hacked-my-workflow-45e328ad8d9b)
 - Using Freeter ([Part 1](https://www.youtube.com/watch?v=bPxg0HzQNTk) and [Part 2](https://www.youtube.com/watch?v=bPxg0HzQNTk))
 - ["Freeter: The Latest Awesome Tool to Manage Academic Research Workflow"](https://medium.com/@faridalias/freeter-the-latest-awesome-tool-to-manage-academic-research-workflow-cc2d1c9195e3)
+- [Recommending some software: Freeter Pro](https://hollylisle.com/recommending-some-software-fleeter-pro/)
 
 The list of feature requests grew, and a few releases later I was already spending all my time on discussing and implementing new features and fixing issues. By the middle of 2017 I had almost no savings left, felt burnt out and had no choice but to sell the project. At the time of sale, there were 12k+ users, including 400-500 users with the Pro license. In hindsight, a freemium business model with a free license and a one-time purchase of a Pro license was probably not the right fit for the product.
 
